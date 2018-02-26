@@ -46,7 +46,7 @@ legend(x="topright", symbol_names, col = c("black", "red", "blue"), lty = 1,
 
 # Graph 4
 y <- d$Global_reactive_power
-plot(x,y, type="n", xlab = "datetime", ylab = "Voltage")
+plot(x,y, type="n", xlab = "datetime", ylab ="Global_reactive_power" )
 lines(x,y)
 
 dev.off()
