@@ -1,6 +1,7 @@
 # plot2.R
-# The following code creates a histogram of the Global active power 
-# variable.
+# The following code creates a line graph of the 
+# Global active power vs datetime.
+
 
 # The following packages are assummed to be installed:
 # 

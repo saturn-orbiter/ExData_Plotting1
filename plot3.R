@@ -1,6 +1,6 @@
 # plot3.R
 
-# The following code creates a line graph of the Global active power vs. DateTime.
+# The following code creates a line graph of Energy submetering vs. DateTime.
 
 d <- read.csv("household_power_consumption.txt", na.strings = "?",
               sep = ";")
